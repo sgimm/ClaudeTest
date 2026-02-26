@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add CLAUDE.md)",
+      "Bash(git commit -m \"Initial commit: Claude Code instructions and .NET API patterns\")",
+      "Bash(git rm --cached CLAUDE.md)",
+      "Bash(git commit -m \"Remove CLAUDE.md from repo\")"
+    ],
+    "additionalDirectories": [
+      "f:\\Repos\\ClaudeRules"
+    ]
+  }
+}
